@@ -2,7 +2,7 @@ total_excelente = 0
 total_bom = 0
 total_ruim = 0
 
-for i in range(10):
+for i in range(50):
     nome = input("Digite seu nome: ")
     idade = int(input("Digite sua idade: "))
     satisfacao = input(
