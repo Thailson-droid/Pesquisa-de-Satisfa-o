@@ -2,9 +2,9 @@
 
 Programa simples em Python que coleta a avaliação de 50 pessoas sobre um serviço.
 
-## Badges
+## Tecnologias
 
-![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python&logoColor=white) ![Status](https://img.shields.io/badge/status-concluído-brightgreen)
+![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python&logoColor=white) 
 
 ## Como funciona
 
